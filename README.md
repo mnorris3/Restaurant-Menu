@@ -22,7 +22,6 @@ Restaruant Menu is a program that allows you toorder items on the menu, and choo
 
 ```
 git clone <respository-SSH key>
-
 ```
 
 2. Navigate to the project directory:
